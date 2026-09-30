@@ -65,3 +65,6 @@ Open http://localhost:5173 — the Vite dev server proxies `/api/*` to the backe
   runs offline. If `sentence-transformers` is installed, the backend transparently
   upgrades to real embeddings (the sidebar shows which backend is active).
 - The agent's calculator uses a safe AST evaluator (no `eval`/`exec`).
+
+<img width="1670" height="949" alt="image" src="https://github.com/user-attachments/assets/69a2deaa-ac4b-4a73-aa73-c86d94663465" />
+

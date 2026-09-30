@@ -1,5 +1,7 @@
 # AI Engineer — Animated Interview Notes
 
+<img width="1670" height="949" alt="image" src="https://github.com/user-attachments/assets/69a2deaa-ac4b-4a73-aa73-c86d94663465" />
+
 An interactive, fully animated learning app that teaches **every topic** from the
 *AI Engineer Interview Notes* by letting you *play* with each concept. A React +
 Framer Motion frontend drives live demos backed by a real **Python / FastAPI**
@@ -66,5 +68,5 @@ Open http://localhost:5173 — the Vite dev server proxies `/api/*` to the backe
   upgrades to real embeddings (the sidebar shows which backend is active).
 - The agent's calculator uses a safe AST evaluator (no `eval`/`exec`).
 
-<img width="1670" height="949" alt="image" src="https://github.com/user-attachments/assets/69a2deaa-ac4b-4a73-aa73-c86d94663465" />
+
 
